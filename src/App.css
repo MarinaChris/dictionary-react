@@ -4,3 +4,8 @@
   margin: 0 auto;
   margin-top: 20px;
 }
+
+.App footer {
+  margin-top: 30px;
+  font-size: smaller;
+}
